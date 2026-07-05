@@ -155,19 +155,19 @@ The data warehouse follows both **Star Schema** and **Snowflake Schema** designs
 
 ## Entity Relationship Diagram
 
-![ER Diagram](Images/ER Diagram.png)
+![ER Diagram](Images/er-diagram.png)
 
 ---
 
 ## Star Schema
 
-![Star Schema](Images/Star Schema.png)
+![Star Schema](Images/star-schema.png)
 
 ---
 
 ## Snowflake Schema
 
-![Snowflake Schema](Images/Snowflake Schema.png)
+![Snowflake Schema](Images/snowflake-schema.png)
 
 ---
 
@@ -267,19 +267,19 @@ Analyzes departmental GPA, instructor workload, DFW rate, and student performanc
 
 ## Provost Dashboard
 
-![Excel Provost Dashboard](Images/Excel Provost Dashboard.png)
+![Excel Provost Dashboard](Images/excel-provost-dashboard.png)
 
 ---
 
 ## Registrar Dashboard
 
-![Excel Registrar Dashboard](Images/Excel Registrar's Operational Dashboard.png)
+![Excel Registrar Dashboard](Images/excel-registrar-dashboard.png)
 
 ---
 
 ## Department Chair Dashboard
 
-![Excel Department Chair Dashboard](Images/Excel Department Chair's Dashboard.png)
+![Excel Department Chair Dashboard](Images/excel-department-chair-dashboard.png)
 
 ---
 
