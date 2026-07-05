@@ -1,0 +1,11 @@
+instructor_id,first_name,last_name,title,department_id,hire_date
+1,Rajesh,Kumar,Professor,1,2015-08-01
+2,Neha,Sharma,"Assoc Prof",2,2017-07-15
+3,Amit,Patel,Professor,3,2012-06-20
+4,Priya,Rao,"Assoc Prof",4,2018-09-10
+5,Suresh,Menon,Professor,5,2010-01-25
+6,Kiran,Joshi,"Assoc Prof",6,2016-03-14
+7,Vikas,Shah,Professor,7,2019-05-30
+8,Meera,Iyer,"Assoc Prof",8,2014-04-04
+9,Deepak,Desai,Professor,9,2009-02-12
+10,Anjali,Verma,"Assoc Prof",10,2011-11-11

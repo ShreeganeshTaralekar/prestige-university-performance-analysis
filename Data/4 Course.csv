@@ -1,0 +1,11 @@
+course_id,course_code,course_name,course_description,credits,department_id
+1,CSE101,"Intro to Programming","Basics of C programming",4,1
+2,CSE201,"Data Structures","Study of data structures",4,1
+3,ME101,Thermodynamics,"Principles of thermodynamics",3,2
+4,PHY101,"Classical Mechanics","Newtonian mechanics",4,3
+5,CHE101,"Organic Chemistry","Introduction to organic chemistry",4,4
+6,ENG101,"English Literature","Study of classic literature",3,5
+7,HIS101,"World History","History of civilizations",3,6
+8,ACC101,"Financial Accounting","Principles of accounting",3,7
+9,FIN101,"Corporate Finance","Basics of finance",3,8
+10,ANA101,"Human Anatomy","Study of human body structure",4,9

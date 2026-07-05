@@ -1,0 +1,11 @@
+department_id,department_name,department_code,faculty_id
+1,"Computer Engineering",CSE,1
+2,"Mechanical Engineering",ME,1
+3,Physics,PHY,2
+4,Chemistry,CHE,2
+5,English,ENG,3
+6,History,HIS,3
+7,Accounts,ACC,4
+8,Finance,FIN,4
+9,Anatomy,ANA,5
+10,Pharmacology,PHA,5

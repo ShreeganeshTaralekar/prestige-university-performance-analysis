@@ -1,0 +1,11 @@
+student_id,student_first,student_last,course_code,course_name,department_name,faculty_name,instructor_first,instructor_last,title,campus_name,academic_term,academic_year,final_grade,grade_letter,credits_earned,status
+1,Arjun,Reddy,CSE101,Intro to Programming,Computer Engineering,Faculty of Engineering,Rajesh,Kumar,Professor,Main Campus,Fall 2021,2021-2022,3.8,A,4,Completed
+2,Sneha,Kapoor,CSE201,Data Structures,Computer Engineering,Faculty of Engineering,Neha,Sharma,Assoc Prof,Main Campus,Fall 2021,2021-2022,3.2,B,4,Completed
+3,Rahul,Shah,ME101,Thermodynamics,Mechanical Engineering,Faculty of Engineering,Amit,Patel,Professor,Main Campus,Spring 2022,2021-2022,2.7,C,3,Completed
+4,Pooja,Nair,PHY101,Classical Mechanics,Physics,Faculty of Science,Priya,Rao,Assoc Prof,North Campus,Spring 2022,2021-2022,2,D,3,Completed
+5,Karan,Mehta,CHE101,Organic Chemistry,Chemistry,Faculty of Science,Suresh,Menon,Professor,North Campus,Fall 2022,2022-2023,3.9,A,4,Completed
+6,Ananya,Joshi,ENG101,English Literature,English,Faculty of Arts,Kiran,Joshi,Assoc Prof,North Campus,Fall 2022,2022-2023,3,B,3,Completed
+7,Rohan,Iyer,HIS101,World History,History,Faculty of Arts,Vikas,Shah,Professor,South Campus,Spring 2023,2022-2023,2.5,C,3,Withdrawn
+8,Divya,Patil,ACC101,Financial Accounting,Accounts,Faculty of Business,Meera,Iyer,Assoc Prof,South Campus,Spring 2023,2022-2023,3.7,A,3,Completed
+9,Vikram,Deshmukh,FIN101,Corporate Finance,Finance,Faculty of Business,Deepak,Desai,Professor,South Campus,Fall 2023,2023-2024,3.4,B,3,Completed
+10,Meena,Kulkarni,ANA101,Human Anatomy,Anatomy,Faculty of Medical,Anjali,Verma,Assoc Prof,Main Campus,Fall 2023,2023-2024,3.6,A,4,Completed
